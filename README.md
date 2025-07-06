@@ -32,6 +32,6 @@ This is where we use the new measure to generate additional columns where requir
 ### RESULTS/FINDINGS
 -	From the analysis, the organization has more males than the females in Kaduna, a slight different in Lagos and a difference of one in Abuja. 
 
-### Recommendation
+### RECOMMENDATION
 The Palmora Group should issue a media publication to counter the perception published by the media and include the analysis done as evidence.
 
