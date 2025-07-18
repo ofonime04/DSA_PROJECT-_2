@@ -35,3 +35,8 @@ This is where we use the new measure to generate additional columns where requir
 ### RECOMMENDATION
 The Palmora Group should issue a media publication to counter the perception published by the media and include the analysis done as evidence.
 
+<img width="1110" height="513" alt="No 5" src="https://github.com/user-attachments/assets/751fbd11-058f-40e3-9a0e-b138370364db" />
+<img width="876" height="489" alt="No 1" src="https://github.com/user-attachments/assets/4277346b-5e04-491f-aa5e-4f63eecefc0b" />
+<img width="742" height="434" alt="No 2" src="https://github.com/user-attachments/assets/c8b6dc9f-2e7f-4102-9fb4-ddd75a17db75" />
+<img width="706" height="435" alt="No 3" src="https://github.com/user-attachments/assets/64681e73-ecb6-4714-8442-146bdf115cca" />
+<img width="875" height="511" alt="No 4" src="https://github.com/user-attachments/assets/a388c4cf-7823-469d-a9e0-0e10160b3bce" />
