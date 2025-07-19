@@ -18,7 +18,7 @@ The data source is Palmoria Group Bonus Rules.xlsx and Palmoria Group emp-data.c
 Below are actions performed
 -	Data Inspection 
 -	Data cleaning and formatting which include;
-  -  Removing rows that does not have salaries, and department indicated as *NULL* by using the *filter* on the respective columns.
+     -  Removing rows that does not have salaries, and department indicated as *NULL* by using the *filter* on the respective columns.
   -  Use *Replace Values* to populate the empty cells on the "Gender" column.
   -  Use *Keep Rows* to the ensure rows/values to work with are fixed.
   -  *Duplicate* the table in 12 Number, *Filter* to have one ‘Department’ in a table.
