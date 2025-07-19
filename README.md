@@ -1,5 +1,5 @@
 # DSA_PROJECT_2
-This is my capstone project for Digital Skillup Africa (DSA) course (July 2025) by incubator hub.
+This is my capstone project for Digital Skillup Africa (DSA) course (July 2025) by Incubator Hub.
 
 ## PROJECT TOPIC: PALMORA GROUP HR ANALYSIS
 
@@ -7,7 +7,7 @@ This is my capstone project for Digital Skillup Africa (DSA) course (July 2025) 
 The objective of this project is to give an insight that will guide the management of Palmora Group to make informed decision on how to address gender inequality as published by the media. The decision will be guided by results gotten from analyzing the data received from the HR department. 
 
 #### Data Source
-The data source is Palmoria Group Bonus Rules.xlsx and Palmoria Group emp-data.csv which contains information from the HR department. The Microsoft excel file contains 1016 columns/6rows personnel data (e.g name, gender, department, salary) and the CSV file contain 6 columns/12 rows bonus rating. 
+The data source is Palmoria Group Bonus Rules.xlsx and Palmoria Group emp-data.csv which contains information from the HR department. The CSV file contains 1016 columns/6rows personnel data (e.g name, gender, department, salary) and the Microsoft Excel file contain (6 columns/12 rows) bonus rule that will be used to calculate *BONUS* to be paid to each employee. 
 
 #### Tools Used
 -	Microsoft Power Bi
@@ -17,7 +17,19 @@ The data source is Palmoria Group Bonus Rules.xlsx and Palmoria Group emp-data.c
 #### Data Cleaning and Preparation
 Below are actions performed
 -	Data Inspection 
--	Data cleaning and formatting
+-	Data cleaning and formatting which include;
+  -  Removing rows that does not have salaries, and department indicated as *NULL* by using the *filter* on the respective columns.
+  -  Use *Replace Values* to populate the empty cells on the "Gender" column.
+  -  Use *Keep Rows* to the ensure rows/values to work with are fixed.
+  -  *Duplicate* the table in 12 Number, *Filter* to have one ‘Department’ in a table.
+  -  Use *Add Column* then *Conditional Column* to populate the ‘Bonus Ratio’ using the ‘Bonus Rule Microsoft file’ as a guide. Do this for all the 12 duplicated tables.
+  -  *Append* all 12 tables to become one.
+  -  Use *Add Column* then *Conditional Column* to populate the ‘Salary Structure’ column.
+  -  Use *Table Tools* then *New Column* to populate the calculated column ‘Bonus’ by multiplying the values in the ‘Salary’ and ‘Bonus Ratio’ columns.
+  -  Use same steps as mentioned above to generate another calculated column “Total Amount paid to Employee” by adding values in the ‘Bonus’ and ‘Salary’ columns.
+  -  While using the listed steps ensure to use *Close and Apply* in other to save output.
+
+
 
 
 #### Exploratory Data Analysis (EDA)
@@ -27,7 +39,10 @@ This involves the exploring of the data to answer some of the questions like
 -	Salary structure with regards to gender
   
 #### Data Analysis
-This is where we use the new measure to generate additional columns where required during the analysis. Example 
+This is where we use the *Report view* to visualize data cleaned and generated.
+ Example; On the *Build Tab* choose a preferred chart that best helps to describes/explains the data you are analyzing. 
+
+ 
 
 ### RESULTS/FINDINGS
 -	From the analysis, the organization has more males than the females in Kaduna, a slight different in Lagos and a difference of one in Abuja. 
