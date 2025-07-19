@@ -19,15 +19,15 @@ Below are actions performed
 -	Data Inspection 
 -	Data cleaning and formatting which include;
      -  Removing rows that does not have salaries, and department indicated as *NULL* by using the *filter* on the respective columns.
-  -  Use *Replace Values* to populate the empty cells on the "Gender" column.
-  -  Use *Keep Rows* to the ensure rows/values to work with are fixed.
-  -  *Duplicate* the table in 12 Number, *Filter* to have one ‘Department’ in a table.
-  -  Use *Add Column* then *Conditional Column* to populate the ‘Bonus Ratio’ using the ‘Bonus Rule Microsoft file’ as a guide. Do this for all the 12 duplicated tables.
-  -  *Append* all 12 tables to become one.
-  -  Use *Add Column* then *Conditional Column* to populate the ‘Salary Structure’ column.
-  -  Use *Table Tools* then *New Column* to populate the calculated column ‘Bonus’ by multiplying the values in the ‘Salary’ and ‘Bonus Ratio’ columns.
-  -  Use same steps as mentioned above to generate another calculated column “Total Amount paid to Employee” by adding values in the ‘Bonus’ and ‘Salary’ columns.
-  -  While using the listed steps ensure to use *Close and Apply* in other to save output.
+     -  Use *Replace Values* to populate the empty cells on the "Gender" column.
+     -  Use *Keep Rows* to the ensure rows/values to work with are fixed.
+     -  *Duplicate* the table in 12 Number, *Filter* to have one ‘Department’ in a table.
+     -  Use *Add Column* then *Conditional Column* to populate the ‘Bonus Ratio’ using the ‘Bonus Rule Microsoft file’ as a guide. Do this for all the 12 duplicated tables.
+     -  *Append* all 12 tables to become one.
+     -  Use *Add Column* then *Conditional Column* to populate the ‘Salary Structure’ column.
+     -  Use *Table Tools* then *New Column* to populate the calculated column ‘Bonus’ by multiplying the values in the ‘Salary’ and ‘Bonus Ratio’ columns.
+     -  Use same steps as mentioned above to generate another calculated column “Total Amount paid to Employee” by adding values in the ‘Bonus’ and ‘Salary’ columns.
+     -  While using the listed steps ensure to use *Close and Apply* in other to save output.
 
 
 
