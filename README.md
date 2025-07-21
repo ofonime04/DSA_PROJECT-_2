@@ -45,7 +45,19 @@ This is where we use the *Report view* to visualize data cleaned and generated.
  
 
 ### RESULTS/FINDINGS
--	From the analysis, the organization has more males than the females in Kaduna, a slight different in Lagos and a difference of one in Abuja. 
+-	In general, the organization with regards to all the region has 465 males, 441 females and 40No of not specified gender making it a total of 946 personnel. 
+-	Using the bench mark of 5 and above, the following regions and respective departments have more males than females. The difference (in gender) is the number written in
+     brackets by each Region_Department.
+     Abuja_Lega l(10), Abuja_Accounting (7), Kaduna_Marketing (7), Lagos_Support(6), Kaduna_Legal (5), Product_Management (5), Kaduna_sales(5).
+
+     For Region_Department with more females than males;
+     Lagos_Research and Development (8)
+     Abuja_Training(7)
+     Kaduna_Engineering(5)
+-	On rating, more females are rated **Very Good** and **Good** while the **Average**, **Poor** and **Very Poor** rating have more males than females.
+-	As required by the new regulation, only 292 employees of Palmora earn $90,000 and above. Using $90, 000 as a minimum, there is gender pay gap in Abuja (male-53, female-39)
+     and in Kaduna (male-59, female-47).
+ 
 
 ### RECOMMENDATION
 The Palmora Group should issue a media publication to counter the perception published by the media and include the analysis done as evidence.
