@@ -63,7 +63,9 @@ This is where we use the *Report view* to visualize data cleaned and generated.
 The Palmora Group should issue a media publication to counter the perception published by the media and include the analysis done as evidence.
 
 <img width="1110" height="513" alt="No 5" src="https://github.com/user-attachments/assets/751fbd11-058f-40e3-9a0e-b138370364db" />
-<img width="876" height="489" alt="No 1" src="https://github.com/user-attachments/assets/4277346b-5e04-491f-aa5e-4f63eecefc0b" />
+<img width="876<img width="925" height="483" alt="4B" src="https://github.com/user-attachments/assets/e830cb73-10ca-4f70-b819-241f1d40a1b8" />
+" height="489" alt="No 1" src="https://github.com/user-attachments/assets/4277346b-5e04-491f-aa5e-4f63eecefc0b" />
 <img width="742" height="434" alt="No 2" src="https://github.com/user-attachments/assets/c8b6dc9f-2e7f-4102-9fb4-ddd75a17db75" />
 <img width="706" height="435" alt="No 3" src="https://github.com/user-attachments/assets/64681e73-ecb6-4714-8442-146bdf115cca" />
 <img width="875" height="511" alt="No 4" src="https://github.com/user-attachments/assets/a388c4cf-7823-469d-a9e0-0e10160b3bce" />
+<img width="894" height="500" alt="No 1A" src="https://github.com/user-attachments/assets/27051a59-93dd-4b5d-a7b9-00996f2361b9" />
